@@ -50,7 +50,7 @@ namespace MyApp
                 }
                 else if (operazione == 1)
                 {
-                    int prodotto = a + b;
+                    int prodotto = a * b;
                     Console.WriteLine("Il prodotto è {0}", prodotto);
                 }
                 else if (operazione == 2)
